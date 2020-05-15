@@ -5,6 +5,5 @@
 # Bitácora.
 
 ## 14/05/2020
-Con base en la información proporcionada por la [World Health Organization](https://www.who.int/healthinfo/global_burden_disease/estimates/en/), se propone la creación de un almacén para manipular la cantidad de decesos en distintas regiones debidos a diversos padecimientos.
-
+Se utilizará este [dataset](https://www.kaggle.com/gregorut/videogamesales)
 ##
