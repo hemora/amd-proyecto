@@ -2,7 +2,7 @@
 ## Proyecto
 ### Gómez Mora Héctor Eduardo (312296414) *312296414@ciencias.unam.mx*
 
-## Bitácora.
+# Bitácora.
 
 # 14/05/2020
 Se obtuvieron datos concernientes a la venta de videojuegos en diferentes mercados a través de la plataforma [Kaggle](https://www.kaggle.com/gregorut/videogamesales).
