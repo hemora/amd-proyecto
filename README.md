@@ -35,3 +35,6 @@ También se puede apreciar en el siguiente [diagrama](figures/snowflake.dia)
 Con python comenzaron a realizarse procesos ETL que permiten generar las correspondientes tablas de dimensiones.
 
 En particular hoy se terminó de generar la dimensión Publisher mediante el script `sql/etl/Publisher-ETL.py` y el dataset generado se guardó en el archivo `data/publisher-dim.csv`.
+
+# 21/05/2020
+Se crearon los datasets correspondientes a las dimensiones de *Genre* y *Platform*. Para la primera se le asocio a cada género una etiqueta **PEGI**(Pan European Game Information) de forma aleatoria, mientras que a cada plataforma se le asoció una generación igualmente aleatoria. 

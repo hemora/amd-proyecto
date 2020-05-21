@@ -1,5 +1,5 @@
 import csv, random
-from country_list import countries_for_language # Son 249 países
+from country_list import countries_for_language # Son 249 países, needs conda activate
 
 # Publisher is indexed 5
 # with open("data/vgsales.csv","r") as raw_data:
