@@ -23,6 +23,7 @@ def platform_to_csv(publist):
                                  quotechar='|', quoting=csv.QUOTE_MINIMAL)
     console_gens = [1,2,3,4,5,6,7,8]
     index = 0
+    filewriter.writerow(['id','generation','platform'])
     for element in publist:
         rand_gen = random.choice(console_gens)
         index+=1

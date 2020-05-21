@@ -9,7 +9,7 @@ from country_list import countries_for_language # Son 249 países, needs conda a
 
 def isolate_publishers():
     '''
-    Debvuelve una lista con todos los Publishers sin repeticiones
+    Devuelve una lista con todos los Publishers sin repeticiones
     '''
     publishers = []
     raw_data = list(csv.reader(open("data/vgsales.csv","r"), delimiter=','))
@@ -19,7 +19,7 @@ def isolate_publishers():
             publishers.append(reg[5])
     return publishers
 
-def index_publishers(publist):
+def publishers_to_csv(publist):
     '''
     Indiza la lista de Publishers en un archivo .csv
     '''
@@ -27,6 +27,7 @@ def index_publishers(publist):
                                  quotechar='|', quoting=csv.QUOTE_MINIMAL)
     countries = dict(countries_for_language('en'))
     index = 0
+    filewriter.writerow(['id','name','country'])
     for element in publist:
         randcountry = countries[random.choice(list(countries.keys()))]
         index+=1
@@ -34,4 +35,4 @@ def index_publishers(publist):
 
 #==============================================================================#
 
-index_publishers(isolate_publishers())
+publishers_to_csv(isolate_publishers())

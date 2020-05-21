@@ -23,6 +23,7 @@ def genres_to_csv(genrelist):
                                  quotechar='|', quoting=csv.QUOTE_MINIMAL)
     pegi_rate = [3,4,6,7,12,16,18]
     index = 0
+    filewriter.writerow(['id','pegi','genre'])
     for element in genrelist:
         rand_pegi = random.choice(pegi_rate)
         index += 1
