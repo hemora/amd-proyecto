@@ -37,4 +37,4 @@ Con python comenzaron a realizarse procesos ETL que permiten generar las corresp
 En particular hoy se terminó de generar la dimensión Publisher mediante el script `sql/etl/Publisher-ETL.py` y el dataset generado se guardó en el archivo `data/publisher-dim.csv`.
 
 # 21/05/2020
-Se crearon los datasets correspondientes a las dimensiones de *Genre* y *Platform*. Para la primera se le asocio a cada género una etiqueta **PEGI**(Pan European Game Information) de forma aleatoria, mientras que a cada plataforma se le asoció una generación igualmente aleatoria. 
+Se crearon los datasets correspondientes a las dimensiones de *Genre* y *Platform*. Para la primera se le asocio a cada género una etiqueta **PEGI**(Pan European Game Information) de forma aleatoria, mientras que a cada plataforma se le asoció una generación igualmente aleatoria.
