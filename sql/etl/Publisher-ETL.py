@@ -26,7 +26,8 @@ def publishers_to_csv(publist):
     filewriter = csv.writer(open('data/publisher-dim.csv','w'), delimiter=',',
                                  quotechar='|', quoting=csv.QUOTE_MINIMAL)
     countries = dict(countries_for_language('en'))
-    regions = ['Africa', 'Asia', 'The Caribbean', 'Central America', 'Europe', 'North America', 'Oceania', 'South America']
+    regions = ['Africa', 'Asia', 'The Caribbean', 'Central America', 'Europe',
+               'North America', 'Oceania', 'South America']
     index = 0
     filewriter.writerow(['id','name','country','region'])
     for element in publist:
@@ -37,4 +38,5 @@ def publishers_to_csv(publist):
 
 #==============================================================================#
 
+# creates the csv
 publishers_to_csv(isolate_publishers())

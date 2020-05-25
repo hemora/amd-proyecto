@@ -38,3 +38,11 @@ En particular hoy se terminó de generar la dimensión Publisher mediante el scr
 
 # 21/05/2020
 Se crearon los datasets correspondientes a las dimensiones de *Genre* y *Platform*. Para la primera se le asocio a cada género una etiqueta **PEGI**(Pan European Game Information) de forma aleatoria, mientras que a cada plataforma se le asoció una generación igualmente aleatoria.
+
+# 25/05/2020
+
+- [x] Construir las tablas de dimensiones y una tabla de hechos auxiliar en Postgres
+
+Se descubrió que había **271** registros con el año marcado como 'N/A' para la tabla de hechos auxiliar.
+
+- [x] Construir la tabla de hechos final mediante joins y proyecciones con las tablas de dimensiones

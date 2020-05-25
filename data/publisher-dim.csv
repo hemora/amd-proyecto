@@ -1,580 +1,580 @@
 id,name,country,region
-1,Nintendo,Antigua & Barbuda,Central America
-2,Microsoft Game Studios,Grenada,Africa
-3,Take-Two Interactive,Hungary,The Caribbean
-4,Sony Computer Entertainment,Sint Maarten,South America
-5,Activision,Isle of Man,Asia
-6,Ubisoft,Ukraine,North America
-7,Bethesda Softworks,Lebanon,Oceania
-8,Electronic Arts,Turks & Caicos Islands,The Caribbean
-9,Sega,Vanuatu,Asia
-10,SquareSoft,Tanzania,The Caribbean
-11,Atari,Lithuania,Africa
-12,505 Games,United Kingdom,The Caribbean
-13,Capcom,Tuvalu,Europe
-14,GT Interactive,Togo,Oceania
-15,Konami Digital Entertainment,Zimbabwe,South America
-16,Sony Computer Entertainment Europe,Wallis & Futuna,North America
-17,Square Enix,Puerto Rico,Europe
-18,LucasArts,Somalia,Central America
-19,Virgin Interactive,Åland Islands,Europe
-20,Warner Bros. Interactive Entertainment,Barbados,The Caribbean
-21,Universal Interactive,Barbados,North America
-22,Eidos Interactive,Réunion,Asia
-23,RedOctane,Micronesia,South America
-24,Vivendi Games,Aruba,Central America
-25,Enix Corporation,Angola,South America
-26,Namco Bandai Games,Curaçao,Central America
-27,Palcom,St. Martin,The Caribbean
-28,Hasbro Interactive,São Tomé & Príncipe,Central America
-29,THQ,Nicaragua,The Caribbean
-30,Fox Interactive,Suriname,Central America
-31,Acclaim Entertainment,Northern Mariana Islands,North America
-32,MTV Games,Brunei,Africa
-33,Disney Interactive Studios,Guatemala,North America
-34,N/A,Denmark,South America
-35,Majesco Entertainment,Germany,Asia
-36,Codemasters,Antigua & Barbuda,Oceania
-37,Red Orb,Greenland,The Caribbean
-38,Level 5,Equatorial Guinea,The Caribbean
-39,Arena Entertainment,Bolivia,Asia
-40,Midway Games,Mozambique,North America
-41,JVC,Costa Rica,Central America
-42,Deep Silver,Barbados,Africa
-43,989 Studios,Guernsey,Central America
-44,NCSoft,Greece,Central America
-45,UEP Systems,Australia,South America
-46,Parker Bros.,Macao SAR China,Asia
-47,Maxis,Libya,Europe
-48,Imagic,Russia,Asia
-49,Tecmo Koei,Vanuatu,The Caribbean
-50,Valve Software,French Guiana,The Caribbean
-51,ASCII Entertainment,Lebanon,The Caribbean
-52,Mindscape,Kyrgyzstan,North America
-53,Infogrames,Malta,Central America
-54,Unknown,Bangladesh,Europe
-55,Square,Burkina Faso,North America
-56,Valve,Latvia,The Caribbean
-57,Activision Value,Jordan,Europe
-58,Banpresto,Armenia,The Caribbean
-59,D3Publisher,Liechtenstein,North America
-60,Oxygen Interactive,Latvia,South America
-61,Red Storm Entertainment,Costa Rica,Central America
-62,Video System,Guyana,Central America
-63,Hello Games,Pakistan,Oceania
-64,Global Star,Guinea,South America
-65,Gotham Games,Malta,Africa
-66,Westwood Studios,Zimbabwe,Oceania
-67,GungHo,Burundi,Central America
-68,Crave Entertainment,Timor-Leste,Europe
-69,Hudson Soft,Slovenia,Oceania
-70,Coleco,Nepal,The Caribbean
-71,Rising Star Games,Thailand,Central America
-72,Atlus,Vietnam,Africa
-73,TDK Mediactive,New Caledonia,Central America
-74,ASC Games,Bahrain,Oceania
-75,Zoo Games,Argentina,South America
-76,Accolade,Yemen,Asia
-77,Sony Online Entertainment,Lebanon,South America
-78,3DO,Sint Maarten,The Caribbean
-79,RTL,Turks & Caicos Islands,South America
-80,Natsume,Nauru,Africa
-81,Focus Home Interactive,Kiribati,Europe
-82,Alchemist,Indonesia,Africa
-83,Black Label Games,Hungary,Oceania
-84,SouthPeak Games,Turks & Caicos Islands,The Caribbean
-85,Mastertronic,Madagascar,Europe
-86,Ocean,Palestinian Territories,Oceania
-87,Zoo Digital Publishing,St. Helena,Central America
-88,Psygnosis,Kiribati,Africa
-89,City Interactive,Puerto Rico,The Caribbean
-90,Empire Interactive,St. Martin,South America
-91,Success,Bulgaria,South America
-92,Compile,Romania,South America
-93,Russel,Ecuador,Europe
-94,Taito,Nepal,South America
-95,Agetec,Philippines,Europe
-96,GSP,Liechtenstein,Asia
-97,Microprose,Guyana,Central America
-98,Play It,Croatia,The Caribbean
-99,Slightly Mad Studios,Angola,North America
-100,Tomy Corporation,Eswatini,Africa
-101,Sammy Corporation,Ukraine,Europe
-102,Koch Media,United Kingdom,The Caribbean
-103,Game Factory,Jamaica,North America
-104,Titus,Guam,North America
-105,Marvelous Entertainment,Mongolia,Oceania
-106,Genki,Venezuela,The Caribbean
-107,Mojang,Martinique,Central America
-108,Pinnacle,Cameroon,Africa
-109,CTO SpA,Eritrea,Europe
-110,TalonSoft,Antigua & Barbuda,South America
-111,Crystal Dynamics,Mozambique,Africa
-112,SCi,St. Kitts & Nevis,Oceania
-113,Quelle,Chad,The Caribbean
-114,mixi- Inc,Christmas Island,The Caribbean
-115,Rage Software,New Zealand,Africa
-116,Ubisoft Annecy,Liberia,Central America
-117,Scholastic Inc.,Poland,Africa
-118,Interplay,Honduras,Europe
-119,Mystique,Niue,Africa
-120,ChunSoft,North Korea,Asia
-121,Square EA,Malawi,Africa
-122,20th Century Fox Video Games,Sierra Leone,South America
-123,Avanquest Software,Kiribati,Asia
-124,Hudson Entertainment,Pakistan,Asia
-125,Nordic Games,Comoros,South America
-126,Men-A-Vision,French Guiana,The Caribbean
-127,Nobilis,Turks & Caicos Islands,South America
-128,Big Ben Interactive,Guatemala,North America
-129,Touchstone,Panama,The Caribbean
-130,Spike,Malawi,Europe
-131,Jester Interactive,Solomon Islands,Asia
-132,Nippon Ichi Software,Niger,North America
-133,LEGO Media,U.S. Virgin Islands,Africa
-134,Quest,Panama,Asia
-135,Illusion Softworks,Jamaica,The Caribbean
-136,Tigervision,South Africa,Europe
-137,Funbox Media,South Georgia & South Sandwich Islands,Oceania
-138,Rocket Company,Zambia,The Caribbean
-139,Metro 3D,Romania,Africa
-140,Mattel Interactive,São Tomé & Príncipe,The Caribbean
-141,IE Institute,France,Europe
-142,Rondomedia,Hungary,Africa
-143,Sony Computer Entertainment America,Saudi Arabia,Oceania
-144,Universal Gamex,Pitcairn Islands,Europe
-145,Ghostlight,French Southern Territories,South America
-146,Wizard Video Games,Belize,Central America
-147,BMG Interactive Entertainment,Réunion,North America
-148,PQube,South Sudan,Asia
-149,Trion Worlds,Central African Republic,Asia
-150,Laguna,Marshall Islands,Europe
-151,Ignition Entertainment,Togo,Africa
-152,Takara,Belarus,North America
-153,Kadokawa Shoten,Vatican City,Oceania
-154,Destineer,Paraguay,Africa
-155,Enterbrain,San Marino,Europe
-156,Xseed Games,Gambia,Central America
-157,Imagineer,Jersey,South America
-158,System 3 Arcade Software,New Zealand,The Caribbean
-159,CPG Products,Sudan,Asia
-160,Aruze Corp,Tanzania,Asia
-161,Gamebridge,Greece,Africa
-162,Midas Interactive Entertainment,Maldives,Asia
-163,Jaleco,New Zealand,Asia
-164,Answer Software,Australia,North America
-165,XS Games,Bolivia,Europe
-166,Activision Blizzard,Russia,South America
-167,Pack In Soft,Jordan,Africa
-168,Rebellion,Romania,South America
-169,Xplosiv,San Marino,Africa
-170,Ultravision,Finland,South America
-171,GameMill Entertainment,Uganda,North America
-172,Wanadoo,Monaco,The Caribbean
-173,NovaLogic,Tunisia,Africa
-174,Telltale Games,Mayotte,Oceania
-175,Epoch,Singapore,The Caribbean
-176,BAM! Entertainment,Lebanon,The Caribbean
-177,Knowledge Adventure,Jamaica,Central America
-178,Mastiff,Yemen,Central America
-179,Tetris Online,Guam,Central America
-180,Harmonix Music Systems,Curaçao,South America
-181,ESP,Slovenia,The Caribbean
-182,TYO,Chile,Central America
-183,Telegames,Mauritius,The Caribbean
-184,Mud Duck Productions,North Macedonia,Oceania
-185,Screenlife,U.S. Outlying Islands,Africa
-186,Pioneer LDC,Sint Maarten,South America
-187,Magical Company,Palestinian Territories,Oceania
-188,Mentor Interactive,St. Vincent & Grenadines,Central America
-189,Kemco,Slovenia,Central America
-190,Human Entertainment,Serbia,North America
-191,Avanquest,Tajikistan,South America
-192,Data Age,South Korea,Central America
-193,Electronic Arts Victor,Lithuania,Africa
-194,Black Bean Games,Aruba,Africa
-195,Jack of All Games,Brunei,South America
-196,989 Sports,Serbia,The Caribbean
-197,Takara Tomy,Lithuania,Central America
-198,Media Rings,Afghanistan,Europe
-199,Elf,India,Europe
-200,Kalypso Media,Netherlands,South America
-201,Starfish,Vatican City,The Caribbean
-202,Zushi Games,Sweden,Central America
-203,Jorudan,Nauru,North America
-204,Destination Software- Inc,Chile,Asia
-205,New,Antarctica,Oceania
-206,Brash Entertainment,Benin,Africa
-207,ITT Family Games,Honduras,Africa
-208,PopCap Games,Bulgaria,Europe
-209,Home Entertainment Suppliers,Australia,Europe
-210,Ackkstudios,Nauru,The Caribbean
-211,Starpath Corp.,Guadeloupe,Asia
-212,P2 Games,South Sudan,Central America
-213,BPS,Honduras,Africa
-214,Gathering of Developers,Macao SAR China,The Caribbean
-215,NewKidCo,Curaçao,Central America
-216,Storm City Games,Argentina,Africa
-217,CokeM Interactive,Slovakia,Central America
-218,CBS Electronics,Lebanon,Asia
-219,Magix,Hong Kong SAR China,Africa
-220,Marvelous Interactive,Cook Islands,Europe
-221,Nihon Falcom Corporation,New Zealand,Central America
-222,Wargaming.net,Wallis & Futuna,Central America
-223,Angel Studios,Turkmenistan,Central America
-224,Arc System Works,Oman,Central America
-225,Playmates,Maldives,Africa
-226,SNK Playmore,Cambodia,Asia
-227,Hamster Corporation,American Samoa,Oceania
-228,From Software,Guyana,Oceania
-229,Nippon Columbia,Turks & Caicos Islands,Europe
-230,Nichibutsu,Sudan,Central America
-231,Little Orbit,Åland Islands,Europe
-232,Conspiracy Entertainment,Zimbabwe,Oceania
-233,DTP Entertainment,St. Kitts & Nevis,Asia
-234,Hect,South Georgia & South Sandwich Islands,Oceania
-235,Mumbo Jumbo,Cook Islands,Europe
-236,Pacific Century Cyber Works,Benin,Central America
-237,Indie Games,Brunei,The Caribbean
-238,Liquid Games,Réunion,Central America
-239,NEC,Uruguay,Central America
-240,Axela,Japan,The Caribbean
-241,ArtDink,Colombia,The Caribbean
-242,Sunsoft,Guatemala,South America
-243,Gust,Qatar,Oceania
-244,SNK,Spain,Africa
-245,NEC Interchannel,Fiji,Central America
-246,FuRyu,Slovenia,Oceania
-247,Xing Entertainment,Bermuda,The Caribbean
-248,ValuSoft,Jamaica,Africa
-249,Victor Interactive,Colombia,South America
-250,Detn8 Games,Hungary,The Caribbean
-251,American Softworks,Wallis & Futuna,Asia
-252,Nordcurrent,North Korea,Central America
-253,Bomb,Christmas Island,The Caribbean
-254,Falcom Corporation,Sint Maarten,Europe
-255,AQ Interactive,Cocos (Keeling) Islands,The Caribbean
-256,CCP,French Polynesia,Europe
-257,Milestone S.r.l.,Guinea,North America
-258,Sears,Haiti,Asia
-259,JoWood Productions,Algeria,The Caribbean
-260,Seta Corporation,Burkina Faso,The Caribbean
-261,On Demand,Liberia,Europe
-262,NCS,Gibraltar,Oceania
-263,Aspyr,Morocco,Oceania
-264,Gremlin Interactive Ltd,Mexico,North America
-265,Agatsuma Entertainment,Myanmar (Burma),The Caribbean
-266,Compile Heart,Switzerland,Africa
-267,Culture Brain,Germany,Oceania
-268,Mad Catz,Liechtenstein,The Caribbean
-269,Shogakukan,Bahamas,Europe
-270,Merscom LLC,British Indian Ocean Territory,North America
-271,Rebellion Developments,Thailand,Europe
-272,Nippon Telenet,Antigua & Barbuda,North America
-273,TDK Core,Sierra Leone,Central America
-274,bitComposer Games,Greece,Asia
-275,Foreign Media Games,Syria,Europe
-276,Astragon,Japan,South America
-277,SSI,Singapore,South America
-278,Kadokawa Games,Northern Mariana Islands,Asia
-279,Idea Factory,Rwanda,Oceania
-280,Performance Designed Products,Serbia,Africa
-281,Asylum Entertainment,Cambodia,Europe
-282,Core Design Ltd.,Congo - Kinshasa,Europe
-283,PlayV,Poland,Central America
-284,UFO Interactive,Angola,Central America
-285,Idea Factory International,Guinea,Asia
-286,Playlogic Game Factory,Cocos (Keeling) Islands,South America
-287,Essential Games,Slovenia,South America
-288,Adeline Software,Japan,North America
-289,Funcom,Indonesia,Europe
-290,Panther Software,Antigua & Barbuda,North America
-291,Blast! Entertainment Ltd,American Samoa,Asia
-292,Game Life,Afghanistan,Europe
-293,DSI Games,Bolivia,Oceania
-294,Avalon Interactive,Bahamas,Africa
-295,Popcorn Arcade,Cameroon,Africa
-296,Neko Entertainment,Germany,Africa
-297,Vir2L Studios,Lithuania,North America
-298,Aques,Myanmar (Burma),Europe
-299,Syscom,Sudan,Asia
-300,White Park Bay Software,Estonia,Asia
-301,System 3,Central African Republic,South America
-302,Vatical Entertainment,Zimbabwe,The Caribbean
-303,Daedalic,Mauritania,The Caribbean
-304,EA Games,Ethiopia,North America
-305,Media Factory,Cambodia,The Caribbean
-306,Vic Tokai,U.S. Outlying Islands,Central America
-307,The Adventure Company,Vietnam,Europe
-308,Game Arts,Bangladesh,Central America
-309,Broccoli,Peru,Africa
-310,Acquire,Uzbekistan,Central America
-311,General Entertainment,Denmark,Europe
-312,Excalibur Publishing,Cyprus,Oceania
-313,Imadio,Marshall Islands,Asia
-314,Swing! Entertainment,Kuwait,Oceania
-315,Sony Music Entertainment,Bangladesh,North America
-316,Aqua Plus,Angola,Europe
-317,Paradox Interactive,Madagascar,North America
-318,Hip Interactive,Kyrgyzstan,Central America
-319,DreamCatcher Interactive,Trinidad & Tobago,Africa
-320,Tripwire Interactive,Sierra Leone,Central America
-321,Sting,Uzbekistan,South America
-322,Yacht Club Games,Sri Lanka,North America
-323,SCS Software,Ghana,Asia
-324,Bigben Interactive,Cocos (Keeling) Islands,The Caribbean
-325,Havas Interactive,Greenland,South America
-326,Slitherine Software,Gambia,North America
-327,Graffiti,Dominica,Asia
-328,Funsta,North Korea,Europe
-329,Telstar,Montserrat,South America
-330,U.S. Gold,North Korea,The Caribbean
-331,DreamWorks Interactive,Pitcairn Islands,South America
-332,Data Design Interactive,St. Lucia,South America
-333,MTO,South Africa,South America
-334,DHM Interactive,Puerto Rico,Oceania
-335,FunSoft,Sri Lanka,Central America
-336,SPS,Caribbean Netherlands,Central America
-337,Bohemia Interactive,Faroe Islands,Asia
-338,Reef Entertainment,Czechia,Asia
-339,Tru Blu Entertainment,South Korea,The Caribbean
-340,Moss,Luxembourg,Africa
-341,T&E Soft,Mali,Oceania
-342,O-Games,Albania,Central America
-343,Aksys Games,Indonesia,South America
-344,NDA Productions,Togo,Europe
-345,Data East,Belize,Africa
-346,Time Warner Interactive,Antigua & Barbuda,Central America
-347,Gainax Network Systems,Tuvalu,South America
-348,Daito,Iraq,Europe
-349,O3 Entertainment,Cameroon,South America
-350,Gameloft,France,Europe
-351,Xicat Interactive,Luxembourg,Africa
-352,Simon & Schuster Interactive,United States,Africa
-353,Valcon Games,Slovenia,Europe
-354,PopTop Software,St. Barthélemy,Central America
-355,TOHO,Albania,North America
-356,HMH Interactive,Åland Islands,Europe
-357,5pb,Myanmar (Burma),North America
-358,Cave,Cameroon,Africa
-359,CDV Software Entertainment,Togo,Africa
-360,Microids,Grenada,Oceania
-361,PM Studios,Nepal,Central America
-362,Paon,U.S. Virgin Islands,Oceania
-363,Micro Cabin,Comoros,Africa
-364,GameTek,Pitcairn Islands,Europe
-365,Benesse,Kuwait,Africa
-366,Type-Moon,South Sudan,Central America
-367,Enjoy Gaming ltd.,China,Oceania
-368,Asmik Corp,Nicaragua,The Caribbean
-369,Interplay Productions,Angola,Asia
-370,Asmik Ace Entertainment,Tanzania,The Caribbean
-371,inXile Entertainment,French Polynesia,Asia
-372,Image Epoch,Liechtenstein,Europe
-373,Phantom EFX,Guam,Africa
-374,Evolved Games,Philippines,The Caribbean
-375,responDESIGN,Sweden,South America
-376,Culture Publishers,Djibouti,Oceania
-377,Griffin International,Switzerland,Africa
-378,Hackberry,British Indian Ocean Territory,Oceania
-379,Hearty Robin,Serbia,Asia
-380,Nippon Amuse,French Guiana,The Caribbean
-381,Origin Systems,Suriname,South America
-382,Seventh Chord,Iran,Oceania
-383,Mitsui,Antigua & Barbuda,The Caribbean
-384,Milestone,Zimbabwe,Asia
-385,Abylight,Vatican City,South America
-386,Flight-Plan,Kenya,Europe
-387,Glams,Cameroon,Asia
-388,Locus,Palestinian Territories,Asia
-389,Warp,St. Kitts & Nevis,Oceania
-390,Daedalic Entertainment,Turkey,Oceania
-391,Alternative Software,Niue,South America
-392,Myelin Media,El Salvador,North America
-393,Mercury Games,Liechtenstein,Africa
-394,Irem Software Engineering,Israel,Oceania
-395,Sunrise Interactive,Macao SAR China,Oceania
-396,Elite,Georgia,The Caribbean
-397,Evolution Games,South Georgia & South Sandwich Islands,Africa
-398,Tivola,Bolivia,South America
-399,Global A Entertainment,Egypt,The Caribbean
-400,Edia,Åland Islands,South America
-401,Athena,Ukraine,Africa
-402,Aria,Equatorial Guinea,Oceania
-403,Gamecock,Madagascar,Africa
-404,Tommo,Cyprus,South America
-405,Altron,French Polynesia,Central America
-406,Happinet,U.S. Outlying Islands,The Caribbean
-407,iWin,U.S. Virgin Islands,Europe
-408,Media Works,Dominica,Asia
-409,Fortyfive,Egypt,Africa
-410,Revolution Software,Costa Rica,The Caribbean
-411,Imax,Mongolia,Oceania
-412,Crimson Cow,Ukraine,North America
-413,10TACLE Studios,Sierra Leone,Oceania
-414,Groove Games,Curaçao,North America
-415,Pack-In-Video,Åland Islands,South America
-416,Insomniac Games,Ecuador,Africa
-417,Ascaron Entertainment GmbH,South Korea,Central America
-418,Asgard,Montserrat,Central America
-419,Ecole,Myanmar (Burma),South America
-420,Yumedia,Angola,Asia
-421,Phenomedia,Kazakhstan,Asia
-422,HAL Laboratory,St. Martin,The Caribbean
-423,Grand Prix Games,South Sudan,South America
-424,DigiCube,Costa Rica,Central America
-425,Creative Core,Angola,Africa
-426,Kaga Create,Gabon,Oceania
-427,WayForward Technologies,Bahamas,South America
-428,LSP Games,Albania,Central America
-429,ASCII Media Works,Syria,Europe
-430,Coconuts Japan,Cook Islands,South America
-431,Arika,Luxembourg,North America
-432,Ertain,Sint Maarten,Central America
-433,Marvel Entertainment,Dominican Republic,The Caribbean
-434,Prototype,Lebanon,North America
-435,TopWare Interactive,Côte d’Ivoire,South America
-436,Phantagram,Oman,Asia
-437,1C Company,British Virgin Islands,Central America
-438,The Learning Company,Svalbard & Jan Mayen,Central America
-439,TechnoSoft,Sierra Leone,North America
-440,Vap,Norfolk Island,Oceania
-441,Misawa,Singapore,The Caribbean
-442,Tradewest,Lesotho,Europe
-443,Team17 Software,Namibia,The Caribbean
-444,Yeti,Liberia,Oceania
-445,Pow,South Korea,South America
-446,Navarre Corp,Congo - Brazzaville,Europe
-447,MediaQuest,Libya,Europe
-448,Max Five,Georgia,Oceania
-449,Comfort,Cayman Islands,South America
-450,Monte Christo Multimedia,Lebanon,North America
-451,Pony Canyon,Armenia,Central America
-452,Riverhillsoft,Nigeria,Europe
-453,Summitsoft,Monaco,South America
-454,Milestone S.r.l,Armenia,Oceania
-455,Playmore,Cape Verde,South America
-456,MLB.com,Honduras,Oceania
-457,Kool Kizz,Australia,North America
-458,Flashpoint Games,Madagascar,Africa
-459,49Games,Togo,Central America
-460,Legacy Interactive,Qatar,South America
-461,Alawar Entertainment,Kuwait,The Caribbean
-462,CyberFront,Timor-Leste,Oceania
-463,Cloud Imperium Games Corporation,British Virgin Islands,Asia
-464,Societa,Niger,Asia
-465,Virtual Play Games,Dominican Republic,Africa
-466,Interchannel,Jamaica,South America
-467,Sonnet,Malta,The Caribbean
-468,Experience Inc.,Honduras,Africa
-469,Zenrin,Samoa,North America
-470,Iceberg Interactive,Serbia,Central America
-471,Ivolgamus,Cuba,Central America
-472,2D Boy,Turkey,Africa
-473,MC2 Entertainment,French Polynesia,South America
-474,Kando Games,Svalbard & Jan Mayen,Africa
-475,Just Flight,Kenya,Europe
-476,Office Create,Chad,Europe
-477,Mamba Games,Netherlands,Africa
-478,Fields,Egypt,The Caribbean
-479,Princess Soft,Guernsey,North America
-480,Maximum Family Games,Solomon Islands,The Caribbean
-481,Berkeley,South Korea,South America
-482,Fuji,Seychelles,The Caribbean
-483,Dusenberry Martin Racing,Togo,South America
-484,imageepoch Inc.,Vietnam,Central America
-485,Big Fish Games,Malta,Europe
-486,Her Interactive,Cuba,Central America
-487,Kamui,Antigua & Barbuda,North America
-488,ASK,Malawi,Europe
-489,Headup Games,Nauru,Asia
-490,KSS,Yemen,Asia
-491,Cygames,Cyprus,Asia
-492,KID,Heard & McDonald Islands,Asia
-493,Quinrose,Croatia,South America
-494,Sunflowers,Palestinian Territories,Asia
-495,dramatic create,Belgium,Asia
-496,TGL,Heard & McDonald Islands,Europe
-497,Encore,Greenland,Africa
-498,Extreme Entertainment Group,Antarctica,North America
-499,Intergrow,Wallis & Futuna,Central America
-500,G.Rev,Saudi Arabia,Oceania
-501,Sweets,Puerto Rico,South America
-502,Kokopeli Digital Studios,Aruba,Asia
-503,Number None,Jamaica,The Caribbean
-504,Nexon,U.S. Outlying Islands,Central America
-505,id Software,Czechia,North America
-506,BushiRoad,Rwanda,Europe
-507,Tryfirst,Denmark,Asia
-508,Strategy First,St. Vincent & Grenadines,Europe
-509,7G//AMES,Antarctica,South America
-510,GN Software,Georgia,South America
-511,Yuke's,Åland Islands,Central America
-512,Easy Interactive,French Guiana,Asia
-513,Licensed 4U,Jersey,Africa
-514,FuRyu Corporation,Western Sahara,The Caribbean
-515,Lexicon Entertainment,Marshall Islands,North America
-516,Paon Corporation,Curaçao,Africa
-517,Kids Station,South Georgia & South Sandwich Islands,Oceania
-518,GOA,Haiti,Europe
-519,Graphsim Entertainment,Gambia,Central America
-520,King Records,Kiribati,North America
-521,Introversion Software,Libya,South America
-522,Minato Station,South Georgia & South Sandwich Islands,Central America
-523,Devolver Digital,Mauritius,Africa
-524,Blue Byte,Philippines,Europe
-525,Gaga,Nicaragua,The Caribbean
-526,Yamasa Entertainment,U.S. Outlying Islands,The Caribbean
-527,Plenty,Tokelau,Europe
-528,Views,Germany,South America
-529,fonfun,Russia,Africa
-530,NetRevo,Croatia,North America
-531,Codemasters Online,Slovakia,Central America
-532,Quintet,Zambia,North America
-533,Phoenix Games,St. Barthélemy,Oceania
-534,Dorart,Taiwan,Africa
-535,Marvelous Games,Barbados,Central America
-536,Focus Multimedia,Syria,Oceania
-537,Imageworks,Cape Verde,Asia
-538,Karin Entertainment,Timor-Leste,North America
-539,Aerosoft,Malaysia,Europe
-540,Technos Japan Corporation,Croatia,Africa
-541,Gakken,Monaco,The Caribbean
-542,Mirai Shounen,Martinique,Central America
-543,Datam Polystar,Rwanda,Oceania
-544,Saurus,Falkland Islands,Oceania
-545,HuneX,Isle of Man,Europe
-546,Revolution (Japan),French Southern Territories,North America
-547,Giza10,Aruba,Asia
-548,Visco,Tanzania,Africa
-549,Alvion,Costa Rica,Oceania
-550,Mycom,Panama,Europe
-551,Giga,Thailand,Africa
-552,Warashi,Turkey,Africa
-553,System Soft,Tunisia,North America
-554,Sold Out,Slovenia,Europe
-555,Lighthouse Interactive,Guatemala,South America
-556,Masque Publishing,U.S. Virgin Islands,Africa
-557,RED Entertainment,Laos,Oceania
-558,Michaelsoft,Bhutan,Africa
-559,Media Entertainment,Libya,North America
-560,New World Computing,Djibouti,Central America
-561,Genterprise,Eswatini,Africa
-562,Interworks Unlimited- Inc.,Chile,South America
-563,Boost On,Lithuania,Central America
-564,Stainless Games,Montserrat,Oceania
-565,EON Digital Entertainment,Libya,Oceania
-566,Epic Games,Ireland,South America
-567,Naxat Soft,Eswatini,Central America
-568,Ascaron Entertainment,Germany,North America
-569,Piacci,French Guiana,Asia
-570,Nitroplus,Trinidad & Tobago,Asia
-571,Paradox Development,Libya,North America
-572,Otomate,Estonia,Oceania
-573,Ongakukan,British Virgin Islands,Central America
-574,Commseed,Macao SAR China,Central America
-575,Inti Creates,Liechtenstein,North America
-576,Takuyo,Dominican Republic,Africa
-577,Interchannel-Holon,Moldova,Central America
-578,Rain Games,Indonesia,North America
-579,UIG Entertainment,Burundi,South America
+1,Nintendo,Sint Maarten,Central America
+2,Microsoft Game Studios,Italy,Oceania
+3,Take-Two Interactive,Uganda,The Caribbean
+4,Sony Computer Entertainment,Peru,South America
+5,Activision,Niger,The Caribbean
+6,Ubisoft,Singapore,Asia
+7,Bethesda Softworks,Dominica,North America
+8,Electronic Arts,São Tomé & Príncipe,South America
+9,Sega,Christmas Island,South America
+10,SquareSoft,China,Central America
+11,Atari,Suriname,Central America
+12,505 Games,Zambia,Asia
+13,Capcom,Kuwait,South America
+14,GT Interactive,Mayotte,The Caribbean
+15,Konami Digital Entertainment,United Arab Emirates,The Caribbean
+16,Sony Computer Entertainment Europe,Isle of Man,Africa
+17,Square Enix,Slovenia,North America
+18,LucasArts,Zimbabwe,Oceania
+19,Virgin Interactive,Iran,Africa
+20,Warner Bros. Interactive Entertainment,Sint Maarten,South America
+21,Universal Interactive,Mexico,Asia
+22,Eidos Interactive,St. Lucia,Asia
+23,RedOctane,Bouvet Island,The Caribbean
+24,Vivendi Games,Andorra,South America
+25,Enix Corporation,North Macedonia,South America
+26,Namco Bandai Games,Bermuda,Asia
+27,Palcom,Barbados,South America
+28,Hasbro Interactive,Malawi,Central America
+29,THQ,Guam,Africa
+30,Fox Interactive,Jamaica,North America
+31,Acclaim Entertainment,Aruba,Asia
+32,MTV Games,Bouvet Island,Africa
+33,Disney Interactive Studios,Antigua & Barbuda,The Caribbean
+34,N/A,Norfolk Island,Asia
+35,Majesco Entertainment,Nicaragua,Asia
+36,Codemasters,Armenia,Africa
+37,Red Orb,Croatia,Europe
+38,Level 5,Seychelles,Asia
+39,Arena Entertainment,Slovakia,Central America
+40,Midway Games,Vietnam,North America
+41,JVC,Bahrain,North America
+42,Deep Silver,Trinidad & Tobago,The Caribbean
+43,989 Studios,Mayotte,Europe
+44,NCSoft,Egypt,Africa
+45,UEP Systems,Jersey,Africa
+46,Parker Bros.,Romania,Oceania
+47,Maxis,Togo,Oceania
+48,Imagic,Gambia,Oceania
+49,Tecmo Koei,Taiwan,Central America
+50,Valve Software,Peru,North America
+51,ASCII Entertainment,Tokelau,Oceania
+52,Mindscape,Morocco,Africa
+53,Infogrames,Solomon Islands,Europe
+54,Unknown,Guam,The Caribbean
+55,Square,Bangladesh,Europe
+56,Valve,Sierra Leone,North America
+57,Activision Value,British Indian Ocean Territory,Africa
+58,Banpresto,Mauritius,Central America
+59,D3Publisher,St. Helena,Africa
+60,Oxygen Interactive,Grenada,Africa
+61,Red Storm Entertainment,Lesotho,Oceania
+62,Video System,Aruba,The Caribbean
+63,Hello Games,Kyrgyzstan,North America
+64,Global Star,El Salvador,Asia
+65,Gotham Games,Ireland,North America
+66,Westwood Studios,Vatican City,Central America
+67,GungHo,Israel,South America
+68,Crave Entertainment,Malta,Africa
+69,Hudson Soft,Norfolk Island,North America
+70,Coleco,St. Pierre & Miquelon,Europe
+71,Rising Star Games,Canada,South America
+72,Atlus,Portugal,Africa
+73,TDK Mediactive,Zambia,Africa
+74,ASC Games,North Macedonia,North America
+75,Zoo Games,St. Martin,Central America
+76,Accolade,Malawi,Europe
+77,Sony Online Entertainment,French Polynesia,Central America
+78,3DO,Haiti,Europe
+79,RTL,Central African Republic,South America
+80,Natsume,Slovakia,Central America
+81,Focus Home Interactive,Central African Republic,Oceania
+82,Alchemist,North Korea,North America
+83,Black Label Games,Libya,North America
+84,SouthPeak Games,Botswana,Europe
+85,Mastertronic,Uganda,South America
+86,Ocean,Panama,Central America
+87,Zoo Digital Publishing,Equatorial Guinea,Oceania
+88,Psygnosis,Åland Islands,Europe
+89,City Interactive,Bahamas,Central America
+90,Empire Interactive,Solomon Islands,Central America
+91,Success,Gabon,The Caribbean
+92,Compile,Réunion,Asia
+93,Russel,Algeria,Europe
+94,Taito,Mauritania,North America
+95,Agetec,Colombia,Africa
+96,GSP,Cambodia,Europe
+97,Microprose,Nepal,Central America
+98,Play It,Cayman Islands,The Caribbean
+99,Slightly Mad Studios,Guernsey,Asia
+100,Tomy Corporation,Australia,The Caribbean
+101,Sammy Corporation,Sudan,The Caribbean
+102,Koch Media,Laos,Europe
+103,Game Factory,Uzbekistan,South America
+104,Titus,Ukraine,The Caribbean
+105,Marvelous Entertainment,Bermuda,The Caribbean
+106,Genki,Sweden,Europe
+107,Mojang,Nauru,North America
+108,Pinnacle,Suriname,Europe
+109,CTO SpA,Azerbaijan,Europe
+110,TalonSoft,Antigua & Barbuda,Africa
+111,Crystal Dynamics,Jordan,Africa
+112,SCi,Egypt,North America
+113,Quelle,São Tomé & Príncipe,Central America
+114,mixi- Inc,Sudan,Europe
+115,Rage Software,Eritrea,Oceania
+116,Ubisoft Annecy,British Indian Ocean Territory,The Caribbean
+117,Scholastic Inc.,Northern Mariana Islands,Africa
+118,Interplay,Syria,North America
+119,Mystique,Macao SAR China,The Caribbean
+120,ChunSoft,Turks & Caicos Islands,Oceania
+121,Square EA,St. Lucia,North America
+122,20th Century Fox Video Games,Cook Islands,Oceania
+123,Avanquest Software,Armenia,Asia
+124,Hudson Entertainment,Caribbean Netherlands,The Caribbean
+125,Nordic Games,Nauru,Asia
+126,Men-A-Vision,Iceland,Asia
+127,Nobilis,Portugal,Asia
+128,Big Ben Interactive,China,Africa
+129,Touchstone,U.S. Outlying Islands,Africa
+130,Spike,Guinea-Bissau,Africa
+131,Jester Interactive,Cuba,The Caribbean
+132,Nippon Ichi Software,Somalia,Europe
+133,LEGO Media,Gambia,South America
+134,Quest,Sierra Leone,Central America
+135,Illusion Softworks,Paraguay,Asia
+136,Tigervision,France,Asia
+137,Funbox Media,Gibraltar,The Caribbean
+138,Rocket Company,Cocos (Keeling) Islands,North America
+139,Metro 3D,Sweden,Asia
+140,Mattel Interactive,St. Barthélemy,Europe
+141,IE Institute,Hungary,Central America
+142,Rondomedia,Switzerland,Europe
+143,Sony Computer Entertainment America,Morocco,Africa
+144,Universal Gamex,Liechtenstein,Europe
+145,Ghostlight,Bosnia & Herzegovina,Africa
+146,Wizard Video Games,United Kingdom,Europe
+147,BMG Interactive Entertainment,Egypt,North America
+148,PQube,Belarus,Asia
+149,Trion Worlds,Dominican Republic,South America
+150,Laguna,Sri Lanka,Europe
+151,Ignition Entertainment,Latvia,Africa
+152,Takara,Cape Verde,Europe
+153,Kadokawa Shoten,U.S. Virgin Islands,Africa
+154,Destineer,Guam,Central America
+155,Enterbrain,Tunisia,Africa
+156,Xseed Games,Niue,North America
+157,Imagineer,Algeria,North America
+158,System 3 Arcade Software,Slovenia,Oceania
+159,CPG Products,Ethiopia,Europe
+160,Aruze Corp,U.S. Outlying Islands,Africa
+161,Gamebridge,Estonia,Africa
+162,Midas Interactive Entertainment,Samoa,Asia
+163,Jaleco,Egypt,The Caribbean
+164,Answer Software,Dominica,Central America
+165,XS Games,Austria,Asia
+166,Activision Blizzard,New Zealand,Oceania
+167,Pack In Soft,Turkey,Central America
+168,Rebellion,Guam,The Caribbean
+169,Xplosiv,Grenada,Asia
+170,Ultravision,Guinea-Bissau,Africa
+171,GameMill Entertainment,Georgia,Central America
+172,Wanadoo,St. Barthélemy,Europe
+173,NovaLogic,Sierra Leone,Asia
+174,Telltale Games,Guinea,Oceania
+175,Epoch,Seychelles,Central America
+176,BAM! Entertainment,Hong Kong SAR China,Europe
+177,Knowledge Adventure,Timor-Leste,The Caribbean
+178,Mastiff,French Guiana,Central America
+179,Tetris Online,Suriname,Africa
+180,Harmonix Music Systems,Bhutan,Oceania
+181,ESP,French Southern Territories,Oceania
+182,TYO,Antarctica,Africa
+183,Telegames,Hong Kong SAR China,Europe
+184,Mud Duck Productions,Gabon,Asia
+185,Screenlife,Guadeloupe,Europe
+186,Pioneer LDC,Eswatini,North America
+187,Magical Company,Malawi,Oceania
+188,Mentor Interactive,Guam,Europe
+189,Kemco,Sierra Leone,Africa
+190,Human Entertainment,Rwanda,North America
+191,Avanquest,Aruba,Asia
+192,Data Age,United Kingdom,The Caribbean
+193,Electronic Arts Victor,Mauritius,The Caribbean
+194,Black Bean Games,Kenya,Central America
+195,Jack of All Games,Curaçao,Africa
+196,989 Sports,Jordan,The Caribbean
+197,Takara Tomy,Bahamas,Asia
+198,Media Rings,Botswana,South America
+199,Elf,Estonia,Europe
+200,Kalypso Media,Maldives,South America
+201,Starfish,Japan,Europe
+202,Zushi Games,Japan,Africa
+203,Jorudan,Samoa,Central America
+204,Destination Software- Inc,Turkmenistan,Oceania
+205,New,Vanuatu,North America
+206,Brash Entertainment,Bouvet Island,Europe
+207,ITT Family Games,Fiji,Asia
+208,PopCap Games,Isle of Man,North America
+209,Home Entertainment Suppliers,Kyrgyzstan,Africa
+210,Ackkstudios,Afghanistan,Asia
+211,Starpath Corp.,Armenia,Africa
+212,P2 Games,Panama,Africa
+213,BPS,Svalbard & Jan Mayen,Europe
+214,Gathering of Developers,Taiwan,South America
+215,NewKidCo,Philippines,Oceania
+216,Storm City Games,El Salvador,Asia
+217,CokeM Interactive,Puerto Rico,Europe
+218,CBS Electronics,Jordan,South America
+219,Magix,Eritrea,Asia
+220,Marvelous Interactive,Oman,Africa
+221,Nihon Falcom Corporation,Norway,The Caribbean
+222,Wargaming.net,French Southern Territories,The Caribbean
+223,Angel Studios,Pitcairn Islands,Asia
+224,Arc System Works,Gabon,Asia
+225,Playmates,Romania,Oceania
+226,SNK Playmore,Fiji,Central America
+227,Hamster Corporation,French Southern Territories,South America
+228,From Software,Kiribati,Oceania
+229,Nippon Columbia,American Samoa,North America
+230,Nichibutsu,South Korea,North America
+231,Little Orbit,St. Barthélemy,Oceania
+232,Conspiracy Entertainment,Papua New Guinea,North America
+233,DTP Entertainment,Mali,Africa
+234,Hect,Tajikistan,The Caribbean
+235,Mumbo Jumbo,United Kingdom,The Caribbean
+236,Pacific Century Cyber Works,French Guiana,Europe
+237,Indie Games,Bolivia,The Caribbean
+238,Liquid Games,U.S. Virgin Islands,Europe
+239,NEC,Sri Lanka,Africa
+240,Axela,Vietnam,The Caribbean
+241,ArtDink,Luxembourg,Europe
+242,Sunsoft,Western Sahara,The Caribbean
+243,Gust,Iceland,Central America
+244,SNK,Benin,Europe
+245,NEC Interchannel,St. Martin,South America
+246,FuRyu,Antigua & Barbuda,Africa
+247,Xing Entertainment,Ecuador,Europe
+248,ValuSoft,France,South America
+249,Victor Interactive,Belgium,Central America
+250,Detn8 Games,Mongolia,Asia
+251,American Softworks,Micronesia,Europe
+252,Nordcurrent,Romania,Europe
+253,Bomb,Marshall Islands,The Caribbean
+254,Falcom Corporation,Turkey,South America
+255,AQ Interactive,Sudan,Africa
+256,CCP,Azerbaijan,South America
+257,Milestone S.r.l.,Uruguay,Asia
+258,Sears,Palestinian Territories,North America
+259,JoWood Productions,Guam,Europe
+260,Seta Corporation,Portugal,Central America
+261,On Demand,New Caledonia,Europe
+262,NCS,Singapore,Europe
+263,Aspyr,Mozambique,Oceania
+264,Gremlin Interactive Ltd,Italy,Central America
+265,Agatsuma Entertainment,Denmark,Central America
+266,Compile Heart,Kiribati,South America
+267,Culture Brain,Guinea,Africa
+268,Mad Catz,São Tomé & Príncipe,The Caribbean
+269,Shogakukan,Denmark,Asia
+270,Merscom LLC,Nigeria,Africa
+271,Rebellion Developments,North Korea,Central America
+272,Nippon Telenet,Armenia,Africa
+273,TDK Core,Belize,Europe
+274,bitComposer Games,Czechia,Europe
+275,Foreign Media Games,Jamaica,Europe
+276,Astragon,Iran,Oceania
+277,SSI,Cayman Islands,Africa
+278,Kadokawa Games,Congo - Kinshasa,The Caribbean
+279,Idea Factory,South Africa,Oceania
+280,Performance Designed Products,Turks & Caicos Islands,Asia
+281,Asylum Entertainment,Lebanon,The Caribbean
+282,Core Design Ltd.,French Guiana,The Caribbean
+283,PlayV,Bhutan,South America
+284,UFO Interactive,Ethiopia,Asia
+285,Idea Factory International,South Africa,North America
+286,Playlogic Game Factory,Svalbard & Jan Mayen,Central America
+287,Essential Games,Curaçao,Europe
+288,Adeline Software,Mozambique,The Caribbean
+289,Funcom,Guyana,Asia
+290,Panther Software,Timor-Leste,South America
+291,Blast! Entertainment Ltd,Greenland,Africa
+292,Game Life,Equatorial Guinea,The Caribbean
+293,DSI Games,New Zealand,Oceania
+294,Avalon Interactive,Micronesia,Central America
+295,Popcorn Arcade,Solomon Islands,South America
+296,Neko Entertainment,Chad,Oceania
+297,Vir2L Studios,U.S. Outlying Islands,Europe
+298,Aques,Guinea-Bissau,Central America
+299,Syscom,Monaco,Europe
+300,White Park Bay Software,Cayman Islands,Africa
+301,System 3,United Kingdom,The Caribbean
+302,Vatical Entertainment,Oman,Europe
+303,Daedalic,Antigua & Barbuda,South America
+304,EA Games,Guinea-Bissau,South America
+305,Media Factory,Iraq,Asia
+306,Vic Tokai,American Samoa,Central America
+307,The Adventure Company,Vatican City,Central America
+308,Game Arts,Kenya,Europe
+309,Broccoli,Burundi,South America
+310,Acquire,Sierra Leone,South America
+311,General Entertainment,United Arab Emirates,Europe
+312,Excalibur Publishing,Timor-Leste,The Caribbean
+313,Imadio,Slovenia,North America
+314,Swing! Entertainment,Portugal,Oceania
+315,Sony Music Entertainment,Guadeloupe,Africa
+316,Aqua Plus,Portugal,South America
+317,Paradox Interactive,New Zealand,Oceania
+318,Hip Interactive,Bermuda,Europe
+319,DreamCatcher Interactive,Sierra Leone,Africa
+320,Tripwire Interactive,Bahrain,North America
+321,Sting,Finland,Africa
+322,Yacht Club Games,Seychelles,Europe
+323,SCS Software,Hong Kong SAR China,South America
+324,Bigben Interactive,St. Barthélemy,Central America
+325,Havas Interactive,Northern Mariana Islands,Africa
+326,Slitherine Software,Anguilla,North America
+327,Graffiti,Colombia,Africa
+328,Funsta,Panama,Asia
+329,Telstar,Micronesia,North America
+330,U.S. Gold,Cocos (Keeling) Islands,North America
+331,DreamWorks Interactive,Macao SAR China,Oceania
+332,Data Design Interactive,Niger,The Caribbean
+333,MTO,Namibia,Oceania
+334,DHM Interactive,British Virgin Islands,Africa
+335,FunSoft,San Marino,Oceania
+336,SPS,Slovakia,South America
+337,Bohemia Interactive,Timor-Leste,Oceania
+338,Reef Entertainment,Cuba,The Caribbean
+339,Tru Blu Entertainment,Guernsey,North America
+340,Moss,Finland,Asia
+341,T&E Soft,St. Vincent & Grenadines,Europe
+342,O-Games,Bermuda,Oceania
+343,Aksys Games,Central African Republic,The Caribbean
+344,NDA Productions,Somalia,North America
+345,Data East,Mayotte,Europe
+346,Time Warner Interactive,Mauritania,Oceania
+347,Gainax Network Systems,Tuvalu,Central America
+348,Daito,Belize,Africa
+349,O3 Entertainment,Tonga,North America
+350,Gameloft,Uzbekistan,Central America
+351,Xicat Interactive,Gabon,North America
+352,Simon & Schuster Interactive,Curaçao,South America
+353,Valcon Games,Bhutan,Central America
+354,PopTop Software,Libya,North America
+355,TOHO,Croatia,Central America
+356,HMH Interactive,Uruguay,Europe
+357,5pb,Mali,South America
+358,Cave,Norway,Oceania
+359,CDV Software Entertainment,Comoros,Oceania
+360,Microids,Malaysia,Europe
+361,PM Studios,Pakistan,North America
+362,Paon,Equatorial Guinea,South America
+363,Micro Cabin,Tanzania,Central America
+364,GameTek,Rwanda,Central America
+365,Benesse,Papua New Guinea,Asia
+366,Type-Moon,Mexico,The Caribbean
+367,Enjoy Gaming ltd.,United Kingdom,Oceania
+368,Asmik Corp,French Southern Territories,The Caribbean
+369,Interplay Productions,Niger,Africa
+370,Asmik Ace Entertainment,Belarus,South America
+371,inXile Entertainment,Saudi Arabia,South America
+372,Image Epoch,Mozambique,South America
+373,Phantom EFX,Niue,South America
+374,Evolved Games,Faroe Islands,Europe
+375,responDESIGN,Armenia,The Caribbean
+376,Culture Publishers,Puerto Rico,Central America
+377,Griffin International,Antigua & Barbuda,Europe
+378,Hackberry,Montserrat,The Caribbean
+379,Hearty Robin,Tonga,Central America
+380,Nippon Amuse,Israel,South America
+381,Origin Systems,Algeria,North America
+382,Seventh Chord,Oman,South America
+383,Mitsui,Spain,Europe
+384,Milestone,Mali,North America
+385,Abylight,Heard & McDonald Islands,Oceania
+386,Flight-Plan,Bhutan,The Caribbean
+387,Glams,Eswatini,Africa
+388,Locus,Australia,Asia
+389,Warp,Singapore,The Caribbean
+390,Daedalic Entertainment,Chad,Africa
+391,Alternative Software,Panama,Central America
+392,Myelin Media,Maldives,Africa
+393,Mercury Games,Palau,North America
+394,Irem Software Engineering,North Macedonia,Oceania
+395,Sunrise Interactive,Bangladesh,Europe
+396,Elite,Norfolk Island,Europe
+397,Evolution Games,Canada,Africa
+398,Tivola,Macao SAR China,Africa
+399,Global A Entertainment,Vietnam,North America
+400,Edia,Botswana,Asia
+401,Athena,Nauru,The Caribbean
+402,Aria,Egypt,Europe
+403,Gamecock,Serbia,Oceania
+404,Tommo,Niue,Oceania
+405,Altron,St. Vincent & Grenadines,The Caribbean
+406,Happinet,Liechtenstein,Asia
+407,iWin,Brazil,Africa
+408,Media Works,Bahamas,Oceania
+409,Fortyfive,Sint Maarten,Africa
+410,Revolution Software,Heard & McDonald Islands,North America
+411,Imax,Guadeloupe,South America
+412,Crimson Cow,St. Martin,Central America
+413,10TACLE Studios,Estonia,Oceania
+414,Groove Games,Libya,Oceania
+415,Pack-In-Video,Norway,South America
+416,Insomniac Games,Bulgaria,Asia
+417,Ascaron Entertainment GmbH,U.S. Outlying Islands,The Caribbean
+418,Asgard,Burundi,Asia
+419,Ecole,Turks & Caicos Islands,South America
+420,Yumedia,Palestinian Territories,Central America
+421,Phenomedia,Sudan,Europe
+422,HAL Laboratory,Malawi,Oceania
+423,Grand Prix Games,Botswana,The Caribbean
+424,DigiCube,Central African Republic,Central America
+425,Creative Core,French Southern Territories,The Caribbean
+426,Kaga Create,Jamaica,South America
+427,WayForward Technologies,Christmas Island,Central America
+428,LSP Games,Mongolia,North America
+429,ASCII Media Works,Dominica,North America
+430,Coconuts Japan,Niue,South America
+431,Arika,Djibouti,North America
+432,Ertain,Romania,Asia
+433,Marvel Entertainment,Iceland,Central America
+434,Prototype,Japan,Europe
+435,TopWare Interactive,Australia,The Caribbean
+436,Phantagram,United Arab Emirates,Europe
+437,1C Company,Japan,Oceania
+438,The Learning Company,Solomon Islands,Central America
+439,TechnoSoft,U.S. Virgin Islands,Europe
+440,Vap,São Tomé & Príncipe,The Caribbean
+441,Misawa,Guyana,South America
+442,Tradewest,Antigua & Barbuda,North America
+443,Team17 Software,Japan,Africa
+444,Yeti,Cape Verde,Europe
+445,Pow,Estonia,Central America
+446,Navarre Corp,Côte d’Ivoire,South America
+447,MediaQuest,Ethiopia,Oceania
+448,Max Five,Sweden,Africa
+449,Comfort,Cape Verde,North America
+450,Monte Christo Multimedia,Falkland Islands,Asia
+451,Pony Canyon,Yemen,The Caribbean
+452,Riverhillsoft,Armenia,Africa
+453,Summitsoft,Lithuania,The Caribbean
+454,Milestone S.r.l,Kyrgyzstan,South America
+455,Playmore,Hungary,Africa
+456,MLB.com,Nigeria,Asia
+457,Kool Kizz,Timor-Leste,The Caribbean
+458,Flashpoint Games,Falkland Islands,Central America
+459,49Games,Cuba,Europe
+460,Legacy Interactive,Solomon Islands,Oceania
+461,Alawar Entertainment,British Virgin Islands,North America
+462,CyberFront,South Africa,Asia
+463,Cloud Imperium Games Corporation,Monaco,South America
+464,Societa,Lithuania,Europe
+465,Virtual Play Games,Antigua & Barbuda,Asia
+466,Interchannel,Svalbard & Jan Mayen,Africa
+467,Sonnet,Fiji,South America
+468,Experience Inc.,Timor-Leste,Oceania
+469,Zenrin,Belize,The Caribbean
+470,Iceberg Interactive,Norway,The Caribbean
+471,Ivolgamus,North Korea,South America
+472,2D Boy,Kyrgyzstan,North America
+473,MC2 Entertainment,Azerbaijan,North America
+474,Kando Games,Solomon Islands,Africa
+475,Just Flight,Togo,South America
+476,Office Create,Kenya,South America
+477,Mamba Games,Jamaica,South America
+478,Fields,Denmark,Africa
+479,Princess Soft,Australia,Oceania
+480,Maximum Family Games,Sint Maarten,The Caribbean
+481,Berkeley,Suriname,Europe
+482,Fuji,Greenland,North America
+483,Dusenberry Martin Racing,Ghana,Central America
+484,imageepoch Inc.,Slovenia,South America
+485,Big Fish Games,Isle of Man,The Caribbean
+486,Her Interactive,Cuba,North America
+487,Kamui,United Kingdom,Europe
+488,ASK,North Korea,North America
+489,Headup Games,Azerbaijan,Europe
+490,KSS,Jersey,Asia
+491,Cygames,Pakistan,North America
+492,KID,Togo,Central America
+493,Quinrose,Malta,Europe
+494,Sunflowers,Sint Maarten,Oceania
+495,dramatic create,Puerto Rico,Africa
+496,TGL,Ecuador,South America
+497,Encore,Mongolia,The Caribbean
+498,Extreme Entertainment Group,Réunion,Central America
+499,Intergrow,Mauritius,Oceania
+500,G.Rev,Brunei,Africa
+501,Sweets,Vietnam,South America
+502,Kokopeli Digital Studios,Uzbekistan,Asia
+503,Number None,Faroe Islands,Europe
+504,Nexon,Bouvet Island,Europe
+505,id Software,Switzerland,Central America
+506,BushiRoad,St. Helena,Central America
+507,Tryfirst,Uzbekistan,Central America
+508,Strategy First,Kuwait,South America
+509,7G//AMES,Ukraine,Oceania
+510,GN Software,Montenegro,Europe
+511,Yuke's,Malaysia,North America
+512,Easy Interactive,Norway,Africa
+513,Licensed 4U,Mauritania,Asia
+514,FuRyu Corporation,Suriname,Africa
+515,Lexicon Entertainment,Bahamas,Asia
+516,Paon Corporation,Guatemala,The Caribbean
+517,Kids Station,Togo,Asia
+518,GOA,Malawi,Oceania
+519,Graphsim Entertainment,Senegal,Oceania
+520,King Records,France,Asia
+521,Introversion Software,Iceland,South America
+522,Minato Station,Tajikistan,South America
+523,Devolver Digital,Argentina,Africa
+524,Blue Byte,Niger,The Caribbean
+525,Gaga,Norway,The Caribbean
+526,Yamasa Entertainment,Niue,South America
+527,Plenty,Italy,Oceania
+528,Views,Myanmar (Burma),North America
+529,fonfun,United Kingdom,Central America
+530,NetRevo,Albania,The Caribbean
+531,Codemasters Online,Malawi,North America
+532,Quintet,Svalbard & Jan Mayen,Oceania
+533,Phoenix Games,Montserrat,Europe
+534,Dorart,Cyprus,Oceania
+535,Marvelous Games,Cocos (Keeling) Islands,South America
+536,Focus Multimedia,Switzerland,Asia
+537,Imageworks,Faroe Islands,South America
+538,Karin Entertainment,Svalbard & Jan Mayen,North America
+539,Aerosoft,Ukraine,Africa
+540,Technos Japan Corporation,Greenland,The Caribbean
+541,Gakken,Ghana,Central America
+542,Mirai Shounen,Vanuatu,North America
+543,Datam Polystar,Côte d’Ivoire,North America
+544,Saurus,Russia,The Caribbean
+545,HuneX,Saudi Arabia,North America
+546,Revolution (Japan),Brunei,South America
+547,Giza10,Greenland,Africa
+548,Visco,Isle of Man,Asia
+549,Alvion,Uganda,The Caribbean
+550,Mycom,Solomon Islands,Asia
+551,Giga,Latvia,Central America
+552,Warashi,Syria,Central America
+553,System Soft,Congo - Brazzaville,Europe
+554,Sold Out,Kyrgyzstan,Oceania
+555,Lighthouse Interactive,Svalbard & Jan Mayen,Oceania
+556,Masque Publishing,Cayman Islands,The Caribbean
+557,RED Entertainment,Isle of Man,Central America
+558,Michaelsoft,Guatemala,The Caribbean
+559,Media Entertainment,Tonga,Europe
+560,New World Computing,Niger,Oceania
+561,Genterprise,Cayman Islands,North America
+562,Interworks Unlimited- Inc.,Peru,Asia
+563,Boost On,French Southern Territories,Europe
+564,Stainless Games,Syria,Africa
+565,EON Digital Entertainment,Myanmar (Burma),Europe
+566,Epic Games,Zimbabwe,Oceania
+567,Naxat Soft,Tanzania,Central America
+568,Ascaron Entertainment,Comoros,Asia
+569,Piacci,Palau,The Caribbean
+570,Nitroplus,Hungary,Africa
+571,Paradox Development,Lebanon,Central America
+572,Otomate,North Korea,Asia
+573,Ongakukan,Finland,The Caribbean
+574,Commseed,Senegal,The Caribbean
+575,Inti Creates,Niue,The Caribbean
+576,Takuyo,São Tomé & Príncipe,Africa
+577,Interchannel-Holon,U.S. Outlying Islands,Oceania
+578,Rain Games,Bulgaria,Asia
+579,UIG Entertainment,Maldives,Asia
