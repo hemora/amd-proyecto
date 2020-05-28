@@ -47,9 +47,9 @@ Se descubrió que había **271** registros con el año marcado como 'N/A' para l
 
 - [x] Construir la tabla de hechos final mediante joins y proyecciones con las tablas de dimensiones
 
-# 26/05/2020
+# 28/05/2020
 
-- [x] Setear valor a no nulos
+- [x] Setear los atributos de vgsales_fact a no nulos
 - [x] Asignar foreign keys
 
 Es necesario que la tabla de hechos tenga PK?
