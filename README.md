@@ -46,3 +46,10 @@ Se crearon los datasets correspondientes a las dimensiones de *Genre* y *Platfor
 Se descubrió que había **271** registros con el año marcado como 'N/A' para la tabla de hechos auxiliar.
 
 - [x] Construir la tabla de hechos final mediante joins y proyecciones con las tablas de dimensiones
+
+# 26/05/2020
+
+- [ ] Setear valor a no nulos
+- [ ] Asignar foreign keys
+
+Es necesario que la tabla de hechos tenga PK?

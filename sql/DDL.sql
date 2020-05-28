@@ -97,3 +97,43 @@ ON vgsales_aux.vgpubli = publisher_dim.name) INNER JOIN platform_dim
 ON vgsales_aux.vgplat = platform_dim.platform
 ORDER BY vgrank asc;
 --
+-- ¿Es necesario que la tabla de hechos tenga PK?
+ALTER TABLE vgsales_fact
+ALTER COLUMN vgrank SET NOT NULL
+ALTER TABLE vgsales_fact
+ALTER COLUMN vgname SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN platid SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN vgyear SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN genreid SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN publiid SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN na_sales SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN eu_sales SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN jp_sales SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN other_sales SET NOT NULL;
+ALTER TABLE vgsales_fact
+ALTER COLUMN global_sales SET NOT NULL;
+--
+
+/**
+* Definición de llaves foráneas
+*/
+-- vgsales ===> platform_dim
+ALTER TABLE vgsales_fact
+ADD CONSTRAINT plat_dim_fk FOREIGN KEY
+(platid) REFERENCES platform_dim (id);
+-- vgsales ===> genre_dim
+ALTER TABLE vgsales_fact
+ADD CONSTRAINT gen_dim_fk FOREIGN KEY
+(genreid) REFERENCES genres_dim (id);
+-- vgsales ===> publiid_dim
+ALTER TABLE vgsales_fact
+ADD CONSTRAINT publi_dim_fk FOREIGN KEY
+(publiid) REFERENCES publisher_dim (id);
