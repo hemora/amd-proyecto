@@ -49,7 +49,7 @@ Se descubrió que había **271** registros con el año marcado como 'N/A' para l
 
 # 26/05/2020
 
-- [ ] Setear valor a no nulos
-- [ ] Asignar foreign keys
+- [x] Setear valor a no nulos
+- [x] Asignar foreign keys
 
 Es necesario que la tabla de hechos tenga PK?
