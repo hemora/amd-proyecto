@@ -52,4 +52,9 @@ Se descubrió que había **271** registros con el año marcado como 'N/A' para l
 - [x] Setear los atributos de vgsales_fact a no nulos
 - [x] Asignar foreign keys
 
-Es necesario que la tabla de hechos tenga PK?
+# 31/05/2020
+
+- [x] Creación de una tabla de dimensiones para las ventas por países
+- [x] A partir de la anterior sustitución se creo una tabla de hechos definitiva
+- [x] Eliminación de tablas sin utilizar
+- [x] Asignación de foreign keys
