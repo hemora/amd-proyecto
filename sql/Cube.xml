@@ -2,51 +2,51 @@
   <Cube name="VG Sales" visible="true" cache="true" enabled="true">
     <Table name="vgsales_facts" schema="public" alias="vgsales_facts">
     </Table>
-    <Dimension type="StandardDimension" visible="true" foreignKey="genre_id" name="Genre">
+    <Dimension type="StandardDimension" visible="true" foreignKey="genre_id" highCardinality="false" name="Genre">
       <Hierarchy name="Default" visible="true" hasAll="true" primaryKey="id">
-        <Table name="genres_dim" schema="public" alias="">
+        <Table name="genres_dim" schema="public">
         </Table>
-        <Level name="PEGI" visible="true" column="pegi" nameColumn="pegi" type="Integer" uniqueMembers="false">
+        <Level name="PEGI" visible="true" column="pegi" nameColumn="pegi" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Genre" visible="true" column="genre" nameColumn="genre" type="Integer" uniqueMembers="false">
+        <Level name="Genre" visible="true" column="genre" nameColumn="genre" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
       </Hierarchy>
     </Dimension>
-    <Dimension type="StandardDimension" visible="true" foreignKey="publi_id" name="Publisher">
-      <Hierarchy name="Default" visible="true" hasAll="true">
-        <Table name="publisher_dim" schema="public" alias="">
+    <Dimension type="StandardDimension" visible="true" foreignKey="publi_id" highCardinality="false" name="Publisher">
+      <Hierarchy name="Default" visible="true" hasAll="true" primaryKey="id">
+        <Table name="publisher_dim" schema="public">
         </Table>
-        <Level name="Region" visible="true" column="region" nameColumn="region" type="String" uniqueMembers="false">
+        <Level name="Region" visible="true" column="region" nameColumn="region" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Country" visible="true" column="country" nameColumn="country" type="String" uniqueMembers="false">
+        <Level name="Country" visible="true" column="country" nameColumn="country" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Publisher Name" visible="true" column="name" nameColumn="name" type="String" uniqueMembers="false">
+        <Level name="Publisher Name" visible="true" column="name" nameColumn="name" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
       </Hierarchy>
     </Dimension>
-    <Dimension type="StandardDimension" visible="true" foreignKey="plat_id" name="Platform">
-      <Hierarchy name="Default" visible="true" hasAll="true">
-        <Table name="platform_dim" schema="public" alias="">
+    <Dimension type="StandardDimension" visible="true" foreignKey="plat_id" highCardinality="false" name="Platform">
+      <Hierarchy name="Default" visible="true" hasAll="true" primaryKey="id">
+        <Table name="platform_dim" schema="public">
         </Table>
-        <Level name="Generation" visible="true" column="generation" nameColumn="generation" type="Integer" uniqueMembers="false">
+        <Level name="Generation" visible="true" column="generation" nameColumn="generation" type="Integer" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Platform" visible="true" column="platform" nameColumn="platform" type="String" uniqueMembers="false">
+        <Level name="Platform" visible="true" column="platform" nameColumn="platform" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
       </Hierarchy>
     </Dimension>
-    <Dimension type="StandardDimension" visible="true" foreignKey="sales_id" name="RegSales">
-      <Hierarchy name="Default" visible="true" hasAll="true">
-        <Table name="sales_dim" schema="public" alias="">
+    <Dimension type="StandardDimension" visible="true" foreignKey="sales_id" highCardinality="false" name="RegSales">
+      <Hierarchy name="Default" visible="true" hasAll="true" primaryKey="sales_id">
+        <Table name="sales_dim" schema="public">
         </Table>
-        <Level name="Global" visible="true" column="global_sales" nameColumn="global_sales" type="Numeric" uniqueMembers="false">
+        <Level name="Global" visible="true" column="global_sales" nameColumn="global_sales" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="North America" visible="true" column="na_sales" nameColumn="na_sales" type="Numeric" uniqueMembers="false">
+        <Level name="North America" visible="true" column="na_sales" nameColumn="na_sales" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Europe" visible="true" column="eu_sales" nameColumn="eu_sales" type="Numeric" uniqueMembers="false">
+        <Level name="Europe" visible="true" column="eu_sales" nameColumn="eu_sales" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Japan" visible="true" column="jp_sales" nameColumn="jp_sales" type="Numeric" uniqueMembers="false">
+        <Level name="Japan" visible="true" column="jp_sales" nameColumn="jp_sales" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
-        <Level name="Other" visible="true" column="other_sales" nameColumn="other_sales" type="Numeric" uniqueMembers="false">
+        <Level name="Other" visible="true" column="other_sales" nameColumn="other_sales" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
       </Hierarchy>
     </Dimension>
