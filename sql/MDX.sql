@@ -56,18 +56,14 @@ SELECT
 {[Genre].[Genre].[Adventure], [Genre].[Genre].[Role-Playing]} ON COLUMNS,
 [Publisher].[Publisher Name].[Banpresto] ON ROWS
 FROM [VG Sales]
-WHERE [Platform].[Platform].[PS]
--- Tiene un error
 
 /**
 * Consulta 8
 */
 SELECT
-[Genre].[Genre].[Sports] ON COLUMNS,
-[Publisher].[Publisher Name].[Banpresto] ON ROWS
+[Platform].[Platform].[NES] ON COLUMNS,
+[Publisher].[Region].[Asia] ON ROWS
 FROM [VG Sales]
-WHERE [Platform].[Platform].[PS]
--- Arroja error
 
 /**
 * Consulta 9
@@ -84,3 +80,13 @@ SELECT
 {[Genre].[Genre].[Sports], [Genre].[Genre].[Adventure]} ON COLUMNS,
 {[Publisher].[Publisher Name].[Pony Canyon], [Publisher].[Publisher Name].[Sunsoft]} ON ROWS
 FROM [VG Sales]
+
+/**
+* Consultas que arrojan error
+*/
+SELECT
+{[Genre].[Genre].[Adventure], [Genre].[Genre].[Role-Playing]} ON COLUMNS,
+[Publisher].[Publisher Name].[Banpresto] ON ROWS
+FROM [VG Sales]
+WHERE [Platform].[Platform].[PS]
+--
