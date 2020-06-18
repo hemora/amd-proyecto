@@ -34,23 +34,23 @@
         </Level>
       </Hierarchy>
     </Dimension>
-    <Dimension type="StandardDimension" visible="true" foreignKey="games_id" name="Games">
+    <Dimension type="StandardDimension" visible="true" foreignKey="games_id" highCardinality="false" name="Games">
       <Hierarchy name="Default" visible="true" hasAll="true">
-        <Table name="games_dim" schema="public" alias="">
+        <Table name="games_dim" schema="public">
         </Table>
-        <Level name="Year" visible="true" table="games_dim" column="vgyear" nameColumn="vgyear" type="Numeric" uniqueMembers="false" levelType="Regular">
+        <Level name="Year" visible="true" table="games_dim" column="vgyear" nameColumn="vgyear" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
         <Level name="GameName" visible="true" table="games_dim" column="vgname" nameColumn="vgname" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
         </Level>
       </Hierarchy>
     </Dimension>
-    <Measure name="GlobalUnit" column="global_sales" aggregator="sum" visible="true">
+    <Measure name="GlobalUnit" column="global_sales" datatype="Numeric" aggregator="sum" visible="true">
     </Measure>
-    <Measure name="NAUnit" column="na_sales" aggregator="sum" visible="true">
+    <Measure name="NAUnit" column="na_sales" datatype="Numeric" aggregator="sum" visible="true">
     </Measure>
-    <Measure name="EUUnit" column="eu_sales" aggregator="sum" visible="true">
+    <Measure name="EUUnit" column="eu_sales" datatype="Numeric" aggregator="sum" visible="true">
     </Measure>
-    <Measure name="JPUnit" column="jp_sales" aggregator="sum" visible="true">
+    <Measure name="JPUnit" column="jp_sales" datatype="Numeric" aggregator="sum" visible="true">
     </Measure>
     <Measure name="OtherUnit" column="other_sales" aggregator="sum" visible="true">
     </Measure>
