@@ -58,3 +58,11 @@ Se descubrió que había **271** registros con el año marcado como 'N/A' para l
 - [x] A partir de la anterior sustitución se creo una tabla de hechos definitiva
 - [x] Eliminación de tablas sin utilizar
 - [x] Asignación de foreign keys
+
+# 18/06/2020
+
+- [x] Creación de una nueva dimensión con los nombres y el año de los juegos
+- [x] Actualización de la tabla de hechos con la llave de la nueva dimensión creada y con los valores de la tabla de dimension sales dim agregados.
+- [x] Se unificaron los nombres de las llaves primarias.
+
+
