@@ -52,7 +52,7 @@
     </Measure>
     <Measure name="JPUnit" column="jp_sales" datatype="Numeric" aggregator="sum" visible="true">
     </Measure>
-    <Measure name="OtherUnit" column="other_sales" aggregator="sum" visible="true">
+    <Measure name="OtherUnit" column="other_sales" datatype="Numeric" aggregator="sum" visible="true">
     </Measure>
   </Cube>
 </Schema>
