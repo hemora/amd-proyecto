@@ -35,7 +35,7 @@
       </Hierarchy>
     </Dimension>
     <Dimension type="StandardDimension" visible="true" foreignKey="games_id" highCardinality="false" name="Games">
-      <Hierarchy name="Default" visible="true" hasAll="true">
+      <Hierarchy name="Default" visible="true" hasAll="true" primaryKey="games_id">
         <Table name="games_dim" schema="public">
         </Table>
         <Level name="Year" visible="true" table="games_dim" column="vgyear" nameColumn="vgyear" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
