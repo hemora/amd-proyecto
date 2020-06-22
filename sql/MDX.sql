@@ -25,3 +25,14 @@ SELECT
 	{[Measures].[NAUnit], [Measures].[JPUnit], [Measures].[GlobalUnit]} ON ROWS
 FROM [VG Sales]
 --
+
+-- 4
+SELECT
+	CROSSJOIN(
+		[Publisher].[Region].[Asia],
+		[Platform].[Platform].[GB]
+	) ON COLUMNS,
+	[Measures].[NAUnit] ON ROWS
+
+FROM [VG Sales]
+--
